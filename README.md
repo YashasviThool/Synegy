@@ -1,0 +1,2 @@
+# Synegy
+Transacion successfull page
