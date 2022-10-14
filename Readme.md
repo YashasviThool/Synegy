@@ -1,3 +1,0 @@
-# Synegy
-
-# Synegy
