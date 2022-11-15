@@ -13,7 +13,7 @@
 
     </div>
     <img class="cheakbox" src="./confirm-icon.svg">
-    
+
     <div class="info">
         <div class="grid-item">Amount</div>
         <div class="grid-value">1000</div>
@@ -35,8 +35,13 @@
 
     </div>
     <div class="print">
-    <button class="bt1" onclick="window.print()">print</button>
+        <button class="bt1" onclick="window.print()">print</button>
     </div>
+    <script>
+        var dt = new Date(day);
+
+        document.getElementById('date-time').innerHTML = dt;
+    </script>
 </body>
 
 </html>
